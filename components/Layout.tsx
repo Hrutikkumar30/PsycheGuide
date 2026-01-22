@@ -43,7 +43,7 @@ const Layout: React.FC<LayoutProps> = ({ children, onNavigateHome, onNavigateHow
       </main>
       <footer className="bg-gray-50 border-t border-gray-100 py-12">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <p className="text-sm text-gray-500">© 2024 PsycheGuide Assessment Platform.</p>
+          <p className="text-sm text-gray-500">© 2026 PsycheGuide Assessment Platform.</p>
         </div>
       </footer>
     </div>
